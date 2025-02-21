@@ -47,7 +47,8 @@ Código abierto: Uso de bibliotecas como TensorFlow, Pandas y herramientas de ga
 Inspiración: Proyectos como Classcraft y aplicaciones de fitness como Fitbit.
 Fuentes: Estudios sobre la relación entre actividad física y rendimiento académico.
 
-## Resumen
+## Resume
+
 EduFit es una herramienta innovadora que combina educación y actividad física para fomentar un estilo de vida saludable y mejorar el rendimiento académico de los estudiantes.
 
-## Resumen
+## Resume
