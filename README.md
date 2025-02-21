@@ -49,3 +49,5 @@ Fuentes: Estudios sobre la relación entre actividad física y rendimiento acad�
 
 ## Resumen
 EduFit es una herramienta innovadora que combina educación y actividad física para fomentar un estilo de vida saludable y mejorar el rendimiento académico de los estudiantes.
+
+## Resumen
