@@ -1,4 +1,5 @@
 # Edufit
+Building AI course project
 
 ## Introducción
 EduFit es una plataforma educativa impulsada por IA que integra el aprendizaje académico con la actividad física. Utiliza datos del rendimiento escolar y físico de los estudiantes para diseñar rutinas personalizadas que combinan ejercicios con contenido educativo, promoviendo un equilibrio entre mente y cuerpo.
@@ -47,8 +48,8 @@ Código abierto: Uso de bibliotecas como TensorFlow, Pandas y herramientas de ga
 Inspiración: Proyectos como Classcraft y aplicaciones de fitness como Fitbit.
 Fuentes: Estudios sobre la relación entre actividad física y rendimiento académico.
 
-## Resume
+## Conslusión
 
 EduFit es una herramienta innovadora que combina educación y actividad física para fomentar un estilo de vida saludable y mejorar el rendimiento académico de los estudiantes.
 
-## Resume
+## Summary
