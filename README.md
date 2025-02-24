@@ -52,5 +52,5 @@ Fuentes: Estudios sobre la relación entre actividad física y rendimiento acad�
 
 EduFit es una herramienta innovadora que combina educación y actividad física para fomentar un estilo de vida saludable y mejorar el rendimiento académico de los estudiantes.
 
-# Summary
+## Summary
 EduFit es una plataforma educativa impulsada por IA que integra el aprendizaje académico con la actividad física. Utiliza datos del rendimiento escolar y físico de los estudiantes para diseñar rutinas personalizadas que combinan ejercicios con contenido educativo, promoviendo un equilibrio entre mente y cuerpo. Dirigido a estudiantes, profesores y padres, EduFit mejora el rendimiento académico y fomenta un estilo de vida saludable mediante técnicas de aprendizaje automático y gamificación. Aunque no reemplaza la supervisión humana, es una herramienta accesible que busca expandirse a más comunidades, promoviendo la equidad en educación y salud.
